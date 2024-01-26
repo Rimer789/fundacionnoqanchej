@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f38be88.css",
+    "main.js": "/static/js/main.29f6607c.js",
+    "static/js/787.fade2e9e.chunk.js": "/static/js/787.fade2e9e.chunk.js",
+    "static/media/imagen3.jpg": "/static/media/imagen3.e2627a208170951e1eb6.jpg",
+    "static/media/imagen9.jpg": "/static/media/imagen9.f2ae84ef00cf63c2d6a5.jpg",
+    "static/media/imagen10.jpg": "/static/media/imagen10.dc158d29b851ae4f53fb.jpg",
+    "static/media/imagen1.jpg": "/static/media/imagen1.313762a380668caf4fe2.jpg",
+    "static/media/imagen18.jpg": "/static/media/imagen18.6b377638876fff4fed1f.jpg",
+    "static/media/imagen17.jpg": "/static/media/imagen17.fe8522a38f3ba1b9e74e.jpg",
+    "static/media/imagen5.jpg": "/static/media/imagen5.ad52e7262699703a0344.jpg",
+    "static/media/imagen7.jpg": "/static/media/imagen7.d20cfb11f14e0bd02325.jpg",
+    "static/media/imagen6.jpg": "/static/media/imagen6.5a22e9f1fbfc4b18c721.jpg",
+    "static/media/bosque.jpg": "/static/media/bosque.037c0c5aeb0dc2c18b9a.jpg",
+    "static/media/imagen14.jpg": "/static/media/imagen14.48f506404d2c20b2303e.jpg",
+    "static/media/fondo1.jpg": "/static/media/fondo1.68fe571f616ae6d1340d.jpg",
+    "static/media/imagen4.jpg": "/static/media/imagen4.662a8faab5d18f0aebb2.jpg",
+    "static/media/imagen19.jpg": "/static/media/imagen19.c55b2329647d11b8e5ea.jpg",
+    "static/media/imagen8.jpg": "/static/media/imagen8.67c8f5dcb444ec0d7dd5.jpg",
+    "static/media/imagen2.jpg": "/static/media/imagen2.a66466af67fcd028ea8d.jpg",
+    "static/media/imagen20.jpg": "/static/media/imagen20.161318549eaeaa5e5223.jpg",
+    "index.html": "/index.html",
+    "main.5f38be88.css.map": "/static/css/main.5f38be88.css.map",
+    "main.29f6607c.js.map": "/static/js/main.29f6607c.js.map",
+    "787.fade2e9e.chunk.js.map": "/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f38be88.css",
+    "static/js/main.29f6607c.js"
+  ]
+}
